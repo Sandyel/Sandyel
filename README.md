@@ -8,9 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style type="text/css">
-        h2{color:blue}
-    </style>
+  
 
 </head>
 <body>
