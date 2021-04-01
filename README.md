@@ -8,13 +8,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  
+  <style type="text/css">
+    p{fonte-size: 20px}
+    
+  </style>
 
 </head>
 <body>
 <h2>Tecnologias | .NET</h2>
 
-}
+
 <p style="background-color:#5c2d91;">
     <li>C#</li>
     <li>JavaScript</li>
