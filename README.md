@@ -8,11 +8,16 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style type="text/css">
+        .li{color:whrite}
+    </style>
 
 </head>
 <body>
 <h2 style="color:#ffffff;">Tecnologias | .NET</h2>
+    
 
+}
 <p style="background-color:#5c2d91;">
     <li style="background-color:#5c2d91;">C#</li>
     <li style="background-color:#5c2d91;">JavaScript</li>
