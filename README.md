@@ -9,51 +9,27 @@
 <html>
 <head>
     <style type="text/css">
-        .li{color:whrite}
+        .h2{color:whrite}
     </style>
 
 </head>
 <body>
-<h2 style="color:#ffffff;">Tecnologias | .NET</h2>
-    
+<h2>Tecnologias | .NET</h2>
 
 }
 <p style="background-color:#5c2d91;">
-    <li style="background-color:#5c2d91;">C#</li>
-    <li style="background-color:#5c2d91;">JavaScript</li>
-    <li style="background-color:#5c2d91;">CSS</li>
-    <li style="background-color:#5c2d91;">HTML</li>
-    <li style="background-color:#5c2d91;">PostgreSQL</li>
+    <li>C#</li>
+    <li>JavaScript</li>
+    <li>CSS</li>
+    <li>HTML</li>
+    <li>PostgreSQL</li>
 </p>
 
-<h2 style="background-color:#072499;">Cursando analise e desenvolvimento de sistemas</h2>
+<h2>Cursando analise e desenvolvimento de sistemas</h2>
 
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
