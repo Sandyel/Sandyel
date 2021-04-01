@@ -8,10 +8,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <style type="text/css">
-    p{fonte-size: 20px}
-    
-  </style>
+ 
 
 </head>
 <body>
