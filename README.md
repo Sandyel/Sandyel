@@ -15,13 +15,13 @@
 <h2>Tecnologias | .NET</h2>
 
 
-
+<p>
     <li>C#</li>
     <li>JavaScript</li>
     <li>CSS</li>
     <li>HTML</li>
     <li>PostgreSQL</li>
-
+</p>
 
 <h2>Cursando analise e desenvolvimento de sistemas</h2>
 
