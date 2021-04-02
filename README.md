@@ -15,7 +15,7 @@
 <h2>Tecnologias | .NET</h2>
 
 
-<p style="background-color:#5c2d91;">
+<p style="background-color:red;">
     <li>C#</li>
     <li>JavaScript</li>
     <li>CSS</li>
