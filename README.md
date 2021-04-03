@@ -1,5 +1,5 @@
 ## Sandyel Gomes Ferreira  👽
-&Sopf; &aopf; &nopf; &dopf; &yopf; &eopf; &lopf;  <br>  &Gopf; &oopf; &mopf; &eopf; &sopf;   <br>   &Fopf; &eopf; &ropf; &ropf; &eopf; &iopf; &ropf; &aopf;
+&Sopf; &aopf; &nopf; &dopf; &yopf; &eopf; &lopf; "  " &Gopf; &oopf; &mopf; &eopf; &sopf; "  " &Fopf; &eopf; &ropf; &ropf; &eopf; &iopf; &ropf; &aopf;
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-sandyelgomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyelgomes)](https://www.linkedin.com/in/sandyelgomes)
