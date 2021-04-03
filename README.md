@@ -12,7 +12,7 @@
 
 </head>
 <body>
-<h2>Tecnologias | .NET</h2>
+<h2>Tecnologias | .NET 👨‍💻 🤓 📚  </h2>
 
 
 <p>
