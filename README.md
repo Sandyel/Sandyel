@@ -27,7 +27,8 @@
 <h2> Cursando analise e desenvolvimento de sistemas. 👨‍🎓 </h2>
 
 
-<div class="container-wrapper-genially" style="position: relative; min-height: 400px; max-width: 100%;"><video class="loader-genially" autoplay="autoplay" loop="loop" playsinline="playsInline" muted="muted" style="position: absolute;top: 45%;left: 50%;transform: translate(-50%, -50%);width: 80px;height: 80px;margin-bottom: 10%"><source src="https://static.genial.ly/resources/panel-loader-low.mp4" type="video/mp4" />Your browser does not support the video tag.</video><div id="602d3b406be9fe72903691b9" class="genially-embed" style="margin: 0px auto; position: relative; height: auto; width: 100%;"></div></div><script>(function (d) { var js, id = "genially-embed-js", ref = d.getElementsByTagName("script")[0]; if (d.getElementById(id)) { return; } js = d.createElement("script"); js.id = id; js.async = true; js.src = "https://view.genial.ly/static/embed/embed.js"; ref.parentNode.insertBefore(js, ref); }(document));</script>
+![a4b49a3b-1ae3-4bf8-a4d0-5ed20b80bb42](https://user-images.githubusercontent.com/40548971/113466669-f9baf200-9413-11eb-8a66-0a857bdc5f36.png)
+
  
 
 </body>
