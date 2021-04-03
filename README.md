@@ -1,10 +1,5 @@
 ## Sandyel Gomes Ferreira
-javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-sandyelgomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandyelgomes)](https://www.linkedin.com/in/sandyelgomes)
 
