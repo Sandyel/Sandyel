@@ -22,7 +22,7 @@
     <li>HTML</li>
     <li>PostgreSQL</li>
 </p>
-✉️ <p>sandyelbusiness@gmail.com</p>
+<p> ✉️ sandyelbusiness@gmail.com</p>
 
 <h2>Cursando analise e desenvolvimento de sistemas</h2>
 
