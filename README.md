@@ -22,6 +22,7 @@
     <li>CSS</li>
     <li>HTML</li>
     <li>PostgreSQL</li>
+    <li>XML</li>
 </p>
 <p> ✉️ sandyelbusiness@gmail.com</p>
 
