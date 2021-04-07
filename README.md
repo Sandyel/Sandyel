@@ -17,8 +17,7 @@
 
 <p>
  <h3> Cursos online </h3>
-    <li>C#</li>
-    <li>JavaScript</li>
+    <li>C#</li>    
     <li>CSS</li>
     <li>HTML</li>
     <li>PostgreSQL</li>
