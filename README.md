@@ -16,12 +16,14 @@
 
 
 <p>
- <h3> Cursos online </h3>
+ <h3>Cursos online </h3>
+ <ul> 
     <li>C#</li>    
     <li>CSS</li>
     <li>HTML</li>
     <li>PostgreSQL</li>
     <li>XML</li>
+ </ul>
 </p>
 <p> ✉️ sandyelbusiness@gmail.com</p>
 
