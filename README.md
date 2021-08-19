@@ -5,38 +5,10 @@
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
- 
-
-</head>
-<body>
-<h2>Tecnologias | .NET 👨‍💻  📚  </h2>
 
 
-<p>
- <h3>Cursos online </h3>
-   <ul> 
-      <li>C#</li>    
-      <li>CSS</li>
-      <li>HTML</li>
-      <li>PostgreSQL</li>
-      <li>XML</li>
-      <li>UML</li>
-   </ul>
-</p>
-<p> ✉️ sandyelbusiness@gmail.com</p>
-
-<h2> Analise e desenvolvimento de sistemas. 👨‍🎓 </h2>
 
 
-![a4b49a3b-1ae3-4bf8-a4d0-5ed20b80bb42](https://user-images.githubusercontent.com/40548971/113466669-f9baf200-9413-11eb-8a66-0a857bdc5f36.png)
-
- 
-
-</body>
-</html>
 
 
 
