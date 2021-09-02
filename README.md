@@ -3,8 +3,10 @@
 ## &Sopf; &aopf; &nopf; &dopf; &yopf; &eopf; &lopf; &nbsp; &Gopf; &oopf; &mopf; &eopf; &sopf; &nbsp;👽 
  <div>
   <a href="https://github.com/sandyel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandyel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyel&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandyel&theme=blue-green"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyel&theme=blue-green"/>
+  
+   
 </div>
   
   <div>
@@ -22,6 +24,8 @@
     
 
   </div>
+
+ 
   
 
 
