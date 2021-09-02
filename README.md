@@ -1,5 +1,5 @@
 ## Seja bem vindo! 😁
-##
+## 👨‍💻☕🍜🍙🍥
 ## &Sopf; &aopf; &nopf; &dopf; &yopf; &eopf; &lopf; &nbsp; &Gopf; &oopf; &mopf; &eopf; &sopf; &nbsp;👽 
  <div>
   <a href="https://github.com/sandyel">
