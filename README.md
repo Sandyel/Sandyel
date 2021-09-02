@@ -1,4 +1,6 @@
-## Olá! Eu sou o Sandyel Gomes.
+## Seja bem vindo! 😁
+##
+## &Sopf; &aopf; &nopf; &dopf; &yopf; &eopf; &lopf; &nbsp; &Gopf; &oopf; &mopf; &eopf; &sopf; &nbsp;👽 
  <div>
   <a href="https://github.com/sandyel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandyel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
