@@ -36,6 +36,9 @@
    <a href = "mailto:sandyelgomes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
  </div>
+ 
+ ---
+ 📚 [Alguns certificados](https://sandyel.notion.site/Certificados-00e2c5a50c7145ed83020ad8dfbc0f9b)
 
  
 
