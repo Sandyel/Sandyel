@@ -37,8 +37,7 @@
  
  </div>
  
- ---
- 📚 [Alguns certificados](https://sandyel.notion.site/Certificados-00e2c5a50c7145ed83020ad8dfbc0f9b)
+
 
  
 
