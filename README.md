@@ -1,4 +1,4 @@
-> # Welcomi!
+> # Welcomi ⚙!
 > ![name-of-you-image](https://github-readme-stats.vercel.app/api/top-langs/?username=sandyel&theme=blue-green)
 ---  
 > <div style= "diplay: inline_block"><br>
