@@ -10,7 +10,7 @@
  
 
  <div>
-  <a href="https://github.com/sandyel_gomes">
+  <a href="https://github.com/Sandyel">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sandyel&theme=blue-green"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandyel&theme=blue-green"/>
   
